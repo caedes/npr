@@ -1,0 +1,22 @@
+{
+  "name": "npr",
+  "version": "0.0.1",
+  "description": "NPM Personal Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caedes/npr.git"
+  },
+  "author": "caedes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caedes/npr/issues"
+  },
+  "homepage": "https://github.com/caedes/npr",
+  "dependencies": {
+    "reggie": "^0.2.1"
+  }
+}
