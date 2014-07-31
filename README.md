@@ -1,4 +1,3 @@
-npr
-===
+# npr
 
-NPM Personal Registry
+NPM Personal Registry powered by [reggie](https://github.com/mbrevoort/node-reggie).
