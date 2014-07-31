@@ -4,6 +4,7 @@
   "description": "NPM Personal Registry",
   "main": "index.js",
   "scripts": {
+    "start": "reggie-server -d public/.reggie -p $PORT",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
