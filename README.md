@@ -1,5 +1,7 @@
 # npr
 
+![npr logo](public/npr.png)
+
 NPM Personal Registry powered by [reggie](https://github.com/mbrevoort/node-reggie).
 
 ## Run server locally
@@ -7,6 +9,10 @@ NPM Personal Registry powered by [reggie](https://github.com/mbrevoort/node-regg
 ```bash
 $ ./bin/start
 ```
+
+## Heroku
+
+You can deploy `npr` on Heroku as it. Enjoy!
 
 ## Actual production registries
 
